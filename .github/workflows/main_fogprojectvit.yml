@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'fogprojectvit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37B9AAC8345A473E8A838318655FB1C5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B63B8AB968F497AB0B19BF42C0CC482 }}
